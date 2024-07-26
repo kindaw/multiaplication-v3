@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ratch\\Downloads\\New folder574\\Multiplicationkogo\\Multiplication\\Multiplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901314E3-3131-4345-8BDE-EE5EC9D1E59B}|Multiplication\\Multiplication.vbproj|c:\\users\\ratch\\downloads\\new folder574\\multiplicationkogo\\multiplication\\multiplication\\multiplication\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{901314E3-3131-4345-8BDE-EE5EC9D1E59B}|Multiplication\\Multiplication.vbproj|solutionrelative:multiplication\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901314E3-3131-4345-8BDE-EE5EC9D1E59B}|Multiplication\\Multiplication.vbproj|C:\\Users\\Ratch\\Downloads\\New folder574\\Multiplicationkogo\\Multiplication\\Multiplication\\multiplication\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{901314E3-3131-4345-8BDE-EE5EC9D1E59B}|Multiplication\\Multiplication.vbproj|solutionrelative:multiplication\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Ratch\\Downloads\\New folder574\\Multiplicationkogo\\Multiplication\\Multiplication\\Multiplication\\Form1.vb",
+              "RelativeDocumentMoniker": "Multiplication\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ratch\\Downloads\\New folder574\\Multiplicationkogo\\Multiplication\\Multiplication\\Multiplication\\Form1.vb",
+              "RelativeToolTip": "Multiplication\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-15T02:35:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ratch\\Downloads\\New folder574\\Multiplicationkogo\\Multiplication\\Multiplication\\Multiplication\\Form1.vb",
+              "RelativeDocumentMoniker": "Multiplication\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ratch\\Downloads\\New folder574\\Multiplicationkogo\\Multiplication\\Multiplication\\Multiplication\\Form1.vb [Design]",
+              "RelativeToolTip": "Multiplication\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-15T02:34:49.399Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

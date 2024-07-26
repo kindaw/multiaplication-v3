@@ -1,0 +1,48 @@
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.xml
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.AssemblyReference.cache
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.Form1.resources
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.Resources.resources
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.GenerateResource.cache
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.CoreCompileInputs.cache
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.xml
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\bin\Debug\Multiplication.xml
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.AssemblyReference.cache
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.Form1.resources
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.Resources.resources
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.GenerateResource.cache
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.CoreCompileInputs.cache
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.xml
+E:\603\การเขียนโปรแกรม\10480-Sirichai\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.xml
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.AssemblyReference.cache
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.Form1.resources
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.Resources.resources
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.GenerateResource.cache
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.CoreCompileInputs.cache
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.xml
+C:\Users\student\Documents\10480-Sirichai\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\bin\Debug\Multiplication.xml
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.AssemblyReference.cache
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.Form1.resources
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.Resources.resources
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.GenerateResource.cache
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.CoreCompileInputs.cache
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.xml
+C:\Users\Ratch\Downloads\New folder574\Multiplicationkogo\Multiplication\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
